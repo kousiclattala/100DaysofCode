@@ -15,3 +15,19 @@
 **Thoughts:** It is bit complicated first but as i was going on it's pretty much easy. 
 
 **Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
+
+
+### Day 2: December 29, 2020
+**Today's Progress:** Learned about Behavior Delegation in JavaScript
+
+**Thoughts:** I learnt about how JS class is different from traditional OO- programming languages. 
+
+**Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
+
+
+### Day 3: December 30, 2020
+**Today's Progress:** Learned about Types in JavaScript
+
+**Thoughts:** I learnt about different types of variables and much detail about Arrays. 
+
+**Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
