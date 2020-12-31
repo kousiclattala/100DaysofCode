@@ -31,3 +31,11 @@
 **Thoughts:** I learnt about different types of variables and much detail about Arrays. 
 
 **Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
+
+
+### Day 4: December 31, 2020
+**Today's Progress:** Learned about Coercion in JavaScript
+
+**Thoughts:** I learnt about what is coercion?, how it is used in while comparing two values of different types.
+
+**Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
