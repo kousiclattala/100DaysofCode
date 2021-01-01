@@ -43,3 +43,12 @@
 **Thoughts:** I learnt about what is coercion?, how it is used in while comparing two values of different types.
 
 **Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
+
+
+### Day 5: January 01, 2021
+
+**Today's Progress:** Learned about Grammar in JavaScript
+
+**Thoughts:** I learned about various topics like Operator Precedence, Errors, try..finally, Automatic Semicolons, Statements & Expressions.
+
+**Link to Material:** [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS.git)
