@@ -55,3 +55,19 @@
 **Thoughts:** I started to learn Angular Framework from an online portal called LearnCodeOnline. I learn about file structure, how to create an app in angular.
 
 **Link to Material:** [Angular Bootcamp](https://courses.learncodeonline.in/learn/home/Complete-Angular-Developer-Bootcamp/section/102261/lesson/539495)
+
+### Day 7: January 04, 2021
+
+**Today's Progress:** TypeScript you need for Angular
+
+**Thoughts:** I learned basic syntax of Typescript and its pretty much similar to JavaScript with added strict typing.
+
+**Link to Material:** [Angular Bootcamp](https://courses.learncodeonline.in/learn/home/Complete-Angular-Developer-Bootcamp/section/102272/lesson/539503)
+
+### Day 8: January 05, 2021
+
+**Today's Progress:** Let's build Counter
+
+**Thoughts:** We Developed a basic counter app in Angular to understand the basic Terminology like **Event Binding**, **Interpolation**
+
+**Link to Material:** [Angular Bootcamp](https://github.com/kousiclattala/counter-app)
