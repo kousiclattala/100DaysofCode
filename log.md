@@ -70,4 +70,4 @@
 
 **Thoughts:** We Developed a basic counter app in Angular to understand the basic Terminology like **Event Binding**, **Interpolation**
 
-**Link to Material:** [Angular Bootcamp](https://github.com/kousiclattala/counter-app)
+**Link to Material:** [Counter App](https://github.com/kousiclattala/counter-app)
