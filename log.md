@@ -71,3 +71,11 @@
 **Thoughts:** We Developed a basic counter app in Angular to understand the basic Terminology like **Event Binding**, **Interpolation**
 
 **Link to Material:** [Counter App](https://github.com/kousiclattala/counter-app)
+
+### Day 9: January 07, 2021
+
+**Today's Progress:** Angular Core Concepts
+
+**Thoughts:** I learned Angular Project Architecture by removing all files in src folder and rewrite them by my own. Concepts like _Module Creation_, _Component Creation_, _bootStrap_ _(This is nothing but, telling the angular you have to load the project for this project i.e., starting of the project)._
+
+**Link to Material:** [Angular Core Concepts](https://github.com/kousiclattala/AngularBootCamp/tree/master/Angular-Core-Concepts)
