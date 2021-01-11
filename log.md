@@ -87,3 +87,11 @@
 **Thoughts:** I developed a basic Word Generator App with custom word. For styling we use Bootstrap.
 
 **Link to Game:** [Word Generator](https://github.com/kousiclattala/word-generator)
+
+### Day 11: January 11, 2021
+
+**Today's Progress:** Tic-Tac-Toe App
+
+**Thoughts:** I developed a Tic-Tac-Toe App, while developing this i learned few Angular Terms like _Property Binding_, _Sending Input from Parent to Child_. For styling we use Bootstrap.
+
+**Link to Game:** [Tic-Tac-Toe](https://github.com/kousiclattala/Tic-Tac-Toe)
