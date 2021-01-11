@@ -79,3 +79,11 @@
 **Thoughts:** I learned Angular Project Architecture by removing all files in src folder and rewrite them by my own. Concepts like _Module Creation_, _Component Creation_, _bootStrap_ _(This is nothing but, telling the angular you have to load the file for this project i.e., starting of the project)._
 
 **Link to Material:** [Angular Core Concepts](https://github.com/kousiclattala/AngularBootCamp/tree/master/Angular-Core-Concepts)
+
+### Day 10: January 08, 2021
+
+**Today's Progress:** Word Generator App
+
+**Thoughts:** I developed a basic Word Generator App with custom word. For styling we use Bootstrap.
+
+**Link to Game:** [Word Generator](https://github.com/kousiclattala/word-generator)
