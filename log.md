@@ -95,3 +95,51 @@
 **Thoughts:** I developed a Tic-Tac-Toe App, while developing this i learned few Angular Terms like _Property Binding_, _Sending Input from Parent to Child_. For styling we use Bootstrap.
 
 **Link to Game:** [Tic-Tac-Toe](https://github.com/kousiclattala/Tic-Tac-Toe)
+
+### Day 12: January 12, 2021
+
+**Today's Progress:** Todo App
+
+**Thoughts:** I developed a Todo App. while developing I learned how to structure our project.
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 13: January 15, 2021
+
+**Today's Progress:** Todo App
+
+**Thoughts:** I Create Model, Service and Components using Angular CLI tools.
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 14: January 16, 2021
+
+**Today's Progress:** Todo App
+
+**Thoughts:** I learned how to request data from remote server (If any) using Service and not from the component itself.
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 15: January 17, 2021
+
+**Today's Progress:** Todo App
+
+**Thoughts:** Added the styling part to the App and Finishing touches to the app
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 16: January 18, 2021
+
+**Today's Progress:** Todo App (Re-developed)
+
+**Thoughts:** This time i created the same Todo App but on by my own without looking at the code. I go through the Angular Documentation.I created Services, and requested data using them from the components class and render the data in components template.
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 17: January 19, 2021
+
+**Today's Progress:** Todo App (Re-Developed)
+
+**Thoughts:** Added styling to the App and Finishing Touches to the app.
+
+**Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
