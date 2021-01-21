@@ -143,3 +143,19 @@
 **Thoughts:** Added styling to the App and Finishing Touches to the app.
 
 **Link to App:** [TodoApp](https://github.com/kousiclattala/TodoApp)
+
+### Day 18: January 20, 2021
+
+**Today's Progress:** Tour of Heroes
+
+**Thoughts:** This is a Tutorial Project given in the Angular Doucmentation. Started with Introduction to project, creating project.
+
+**Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
+
+### Day 19: January 21, 2021
+
+**Today's Progress:** Tour of Heroes
+
+**Thoughts:** The Hero Editor, Display a List.
+
+**Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
