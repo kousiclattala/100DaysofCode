@@ -159,3 +159,11 @@
 **Thoughts:** The Hero Editor, Display a List.
 
 **Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
+
+### Day 20: January 22, 2021
+
+**Today's Progress:** Tour of Heroes
+
+**Thoughts:** Create a Feature Component
+
+**Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
