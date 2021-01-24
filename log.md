@@ -167,3 +167,12 @@
 **Thoughts:** Create a Feature Component
 
 **Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
+
+
+### Day 21: January 23, 2021
+
+**Today's Progress:** Tour of Heroes
+
+**Thoughts:** Add Services,learned about what are services? why do we need them
+
+**Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
