@@ -183,3 +183,11 @@
 **Thoughts:** Add In-App Navigation, learned how to use angular routing.
 
 **Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
+
+### Day 23: January 25, 2021
+
+**Today's Progress:** Tour of Heroes
+
+**Thoughts:** Get Data from a server, learned how to use Http module in Angular
+
+**Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
