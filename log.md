@@ -191,3 +191,12 @@
 **Thoughts:** Get Data from a server, learned how to use Http module in Angular
 
 **Link to Game:** [Tour of Heores](https://github.com/kousiclattala/TourOfHeroes)
+
+### Day 24: January 26, 2021
+
+**Today's Progress:** Read Angular Documentation
+
+**Thoughts:** Read Angular Documentation for In-Depth Knowledge in **Directives**(_Attribute Directives_, _Structural Directives_),
+**Dependency Injection**(_Angular Dependency Injection_).
+
+**Link to Documentation:** [Angular Docs](https://angular.io/guide/built-in-directives)
