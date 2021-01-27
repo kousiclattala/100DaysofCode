@@ -200,3 +200,11 @@
 **Dependency Injection**(_Angular Dependency Injection_).
 
 **Link to Documentation:** [Angular Docs](https://angular.io/guide/built-in-directives)
+
+### Day 25: January 27, 2021
+
+**Today's Progress:** MongoDB Basics
+
+**Thoughts:** Learn About MongoDB basics like What is MongoDB?, What is Document in MongoDB?, MongoDB Atlas.
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
