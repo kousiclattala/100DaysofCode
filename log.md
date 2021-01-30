@@ -216,3 +216,11 @@
 **Thoughts:** Learn About RxJs core concepts like _Observable_, _Observer_, _operators_,_Subscription_, _Subject_,_Scheduler_.
 
 **Link to Docs:** [RxJs](https://rxjs.dev/guide/overview)
+
+### Day 27: January 29, 2021
+
+**Today's Progress:** Read About Angular Forms
+
+**Thoughts:** Reactive Forms, Template-Driven Forms.
+
+**Link to Docs:** [Angular Docs](https://angular.io/guide/forms-overview)
