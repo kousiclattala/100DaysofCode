@@ -208,3 +208,11 @@
 **Thoughts:** Learn About MongoDB basics like What is MongoDB?, What is Document in MongoDB?, MongoDB Atlas.
 
 **Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 26: January 28, 2021
+
+**Today's Progress:** Read RxJs Documentation
+
+**Thoughts:** Learn About RxJs core concepts like _Observable_, _Observer_, _operators_,_Subscription_, _Subject_,_Scheduler_.
+
+**Link to Docs:** [RxJs](https://rxjs.dev/guide/overview)
