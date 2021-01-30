@@ -224,3 +224,11 @@
 **Thoughts:** Reactive Forms, Template-Driven Forms.
 
 **Link to Docs:** [Angular Docs](https://angular.io/guide/forms-overview)
+
+### Day 28: January 30, 2021
+
+**Today's Progress:** MongoDB Concepts
+
+**Thoughts:** Importing, Exporting, and Querying Data.
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
