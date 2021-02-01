@@ -232,3 +232,12 @@
 **Thoughts:** Importing, Exporting, and Querying Data.
 
 **Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 29: January 31, 2021
+
+**Today's Progress:** Angular Reactive Forms
+
+**Thoughts:** Angular Reactive Forms, In-Built Validators, Custom Built validators,
+Displaying error messages with conditional rendering.
+
+**Link to Project:** [Reactive Forms](https://github.com/kousiclattala/Reactive-Form-Angular)
