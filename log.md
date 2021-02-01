@@ -241,3 +241,11 @@
 Displaying error messages with conditional rendering.
 
 **Link to Project:** [Reactive Forms](https://github.com/kousiclattala/Reactive-Form-Angular)
+
+### Day 30: February 1, 2021
+
+**Today's Progress:** MongoDB Concepts
+
+**Thoughts:** Updating and Deleting Documents, Collections.
+
+**Link to Documentation:** [MongoDB](https://university.mongodb.com/courses/M001/about)
