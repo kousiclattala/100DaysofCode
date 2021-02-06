@@ -249,3 +249,43 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Updating and Deleting Documents, Collections.
 
 **Link to Documentation:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 31: February 2, 2021
+
+**Today's Progress:** Angular HttpModule
+
+**Thoughts:** Learned Angular HttpModule by impelemting RandomUser using Open-Source API.
+
+**Link to Project:** [Random User Generator](https://github.com/kousiclattala/RandomUserGenerator)
+
+### Day 32: February 3, 2021
+
+**Today's Progress:** MongoDB Concepts
+
+**Thoughts:** Comparison Operators, Logic Operators, Expressive Query Operator, Array Operators, Projections, Sub-Documents Query..
+
+**Link to Documentation:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 33: February 4, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Understanding The Project Structure, Reading Firebase docs, read about angular routing docs.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 34: February 5, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Creating new Firebase project, config project to firebase, generating file structure for github app.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 35: February 6, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Bringing everything in Module, Signup, SignIn and getUser from firebase.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
