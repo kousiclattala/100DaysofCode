@@ -289,3 +289,19 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Bringing everything in Module, Signup, SignIn and getUser from firebase.
 
 **Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 36: February 7, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Working with github service API, Footer for github Angular
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 37: February 8, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Fixing bugs and header brain, Header template with router, Detect changes in grand child.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
