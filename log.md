@@ -305,3 +305,19 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Fixing bugs and header brain, Header template with router, Detect changes in grand child.
 
 **Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 38: February 9, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** User card for git, Finishing home component
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 39: February 10, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Page Not Found, Signup with firebase for App
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
