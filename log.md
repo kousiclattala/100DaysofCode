@@ -321,3 +321,11 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Page Not Found, Signup with firebase for App
 
 **Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 40: February 11, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Protecting routes and routing.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
