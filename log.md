@@ -329,3 +329,11 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Protecting routes and routing.
 
 **Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 41: February 12, 2021
+
+**Today's Progress:** GitHub Searcher App
+
+**Thoughts:** Signin with firebase for App, minor debugging and final github searcher APP.
+
+**Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
