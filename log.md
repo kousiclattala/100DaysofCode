@@ -337,3 +337,51 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Signin with firebase for App, minor debugging and final github searcher APP.
 
 **Link to App:** [GitHub Repo Searcher APP](https://github.com/kousiclattala/GitHubRepoSearcher)
+
+### Day 42: February 13, 2021
+
+**Today's Progress:** MongoDB Basics
+
+**Thoughts:** Aggregation Framework, sort() and limit(), Introduction to Indexes.
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 43: February 14, 2021
+
+**Today's Progress:** MongoDB Basics
+
+**Thoughts:** Introduction to Data Modeling, Upsert - Update or Insert.
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 44: February 15, 2021
+
+**Today's Progress:** MongoDB Basics
+
+**Thoughts:** Atlas Features - Data Explorer, Atlas Products
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 45: February 16, 2021
+
+**Today's Progress:** MongoDB Basics
+
+**Thoughts:** What is MongoDB Compass?
+
+**Link to Docs:** [MongoDB](https://university.mongodb.com/courses/M001/about)
+
+### Day 46: February 17, 2021
+
+**Today's Progress:** Understanding database and storage
+
+**Thoughts:** Here i learn firebase database and storage by reading docs.
+
+**Link to Docs:** [Fire DataBase Docs](https://github.com/angular/angularfire/blob/master/docs/rtdb/objects.md)
+
+### Day 47: February 18, 2021
+
+**Today's Progress:** understanding the database architecture
+
+**Thoughts:** read about firebase database and storage
+
+**Link to Docs:** [Fire Storage Docs](https://github.com/angular/angularfire/blob/master/docs/storage/storage.md)
