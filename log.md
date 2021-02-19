@@ -385,3 +385,11 @@ Displaying error messages with conditional rendering.
 **Thoughts:** read about firebase database and storage
 
 **Link to Docs:** [Fire Storage Docs](https://github.com/angular/angularfire/blob/master/docs/storage/storage.md)
+
+### Day 48: February 19, 2021
+
+**Today's Progress:** Installing tools and generating all components for travelgram
+
+**Thoughts:** I install necessary tools for the project and install necessary components, services.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
