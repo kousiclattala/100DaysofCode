@@ -393,3 +393,11 @@ Displaying error messages with conditional rendering.
 **Thoughts:** I install necessary tools for the project and install necessary components, services.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+### Day 49: February 20, 2021
+
+**Today's Progress:** building firebase services, header and footer of the application
+
+**Thoughts:** Add services like authService for Authorization of the user and also build header and footer for the application.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
