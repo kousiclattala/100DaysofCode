@@ -401,3 +401,13 @@ Displaying error messages with conditional rendering.
 **Thoughts:** Add services like authService for Authorization of the user and also build header and footer for the application.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+### Day 50: February 21, 2021
+
+**Today's Progress:** signup with db and how to upload images or any resource in db
+
+**Thoughts:** build how to signup to db and upload images/any files into them.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+# Yayyyyy!!😎😎 Completed 50 Days
