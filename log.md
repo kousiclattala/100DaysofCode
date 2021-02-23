@@ -411,3 +411,20 @@ Displaying error messages with conditional rendering.
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
 
 # Yayyyyy!!😎😎 Completed 50 Days
+
+### Day 51: February 22, 2021
+
+**Today's Progress:** conditional rendering of signup, setting up routing.
+
+**Thoughts:** setting up routing for the app and based on the routing setting up the singup.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+### Day 52: February 23, 2021
+
+**Today's Progress:** router and lots of debugging
+
+**Thoughts:** Adding the full routing to the App and does a debugging to mitigate errors. Its a good practice to
+make a periodic debugging sessions, once the project going bigger day by day its difficult to spot errors.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
