@@ -469,3 +469,15 @@ make a periodic debugging sessions, once the project going bigger day by day its
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
 
+
+
+
+### Day 57: February 28, 2021
+
+**Today's Progress:** like and dislike the post
+
+**Thoughts:** rendering posts in the home component.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+
