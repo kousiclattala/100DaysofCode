@@ -429,7 +429,6 @@ make a periodic debugging sessions, once the project going bigger day by day its
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
 
-
 ### Day 53: February 24, 2021
 
 **Today's Progress:** sign in is easy now
@@ -437,9 +436,6 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Completed the signin page with template.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
-
-
-
 
 ### Day 54: February 25, 2021
 
@@ -449,8 +445,6 @@ make a periodic debugging sessions, once the project going bigger day by day its
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
 
-
-
 ### Day 55: February 26, 2021
 
 **Today's Progress:** Home component
@@ -458,8 +452,6 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** completed home component
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
-
-
 
 ### Day 56: February 27, 2021
 
@@ -469,9 +461,6 @@ make a periodic debugging sessions, once the project going bigger day by day its
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
 
-
-
-
 ### Day 57: February 28, 2021
 
 **Today's Progress:** like and dislike the post
@@ -479,5 +468,3 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** rendering posts in the home component.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
-
-
