@@ -448,3 +448,13 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Completed Add post by user section.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+
+
+### Day 55: February 26, 2021
+
+**Today's Progress:** Home component
+
+**Thoughts:** completed home component
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
