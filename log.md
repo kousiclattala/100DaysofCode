@@ -458,3 +458,14 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** completed home component
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+
+
+### Day 56: February 27, 2021
+
+**Today's Progress:** Adding list of users
+
+**Thoughts:** completed rendering list of users in home component
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
