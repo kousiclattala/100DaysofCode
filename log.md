@@ -428,3 +428,14 @@ Displaying error messages with conditional rendering.
 make a periodic debugging sessions, once the project going bigger day by day its difficult to spot errors.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+
+### Day 53: February 24, 2021
+
+**Today's Progress:** sign in is easy now
+
+**Thoughts:** Completed the signin page with template.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+
