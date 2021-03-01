@@ -468,3 +468,11 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** rendering posts in the home component.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+### Day 58: March 01, 2021
+
+**Today's Progress:** like and dislike with changes and debugging
+
+**Thoughts:** Does final touches to the app and add like and dislike by using _OnChanges_ life cycle hook.
+
+**Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
