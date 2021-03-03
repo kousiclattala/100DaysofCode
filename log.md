@@ -484,3 +484,11 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Learn about layout in bootstrap
 
 **Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+### Day 60: March 03, 2021
+
+**Today's Progress:** Learning Bootstrap
+
+**Thoughts:** Learn about content in bootstrap
+
+**Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
