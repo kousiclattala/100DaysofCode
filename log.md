@@ -476,3 +476,11 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Does final touches to the app and add like and dislike by using _OnChanges_ life cycle hook.
 
 **Link to APP:** [TravelGram APP](https://github.com/kousiclattala/TravelGram)
+
+### Day 59: March 02, 2021
+
+**Today's Progress:** Started to Learn Bootstrap
+
+**Thoughts:** Learn about layout in bootstrap
+
+**Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
