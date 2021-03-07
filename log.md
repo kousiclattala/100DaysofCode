@@ -500,3 +500,11 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Learn about Forms in bootstrap
 
 **Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+### Day 62: March 05, 2021
+
+**Today's Progress:** Learning Bootstrap
+
+**Thoughts:** Learn about Components in bootstrap (Accordion, Alerts, Badge, Breadcrumb, Buttons, Button group, Card).
+
+**Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
