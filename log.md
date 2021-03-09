@@ -532,3 +532,10 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Learn about Helpers in bootstrap.
 
 **Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+### Day 66: March 09, 2021
+
+**Today's Progress:** Re-Developed RandomuserGenerator Project
+
+**Thoughts:** I have re-developed the whole Random User Generator Project on my own by checking on official docs to
+get an idea how far i have grasped the concepts of angular.
