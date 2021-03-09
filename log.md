@@ -524,3 +524,11 @@ make a periodic debugging sessions, once the project going bigger day by day its
 **Thoughts:** Learn about Components in bootstrap (Modal, Navs & Tabs, Navbar, Pagination, Popovers, Progress, Scrollspy, Spinners, Toasts, Tooltips).
 
 **Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+### Day 65: March 08, 2021
+
+**Today's Progress:** Learning Bootstrap
+
+**Thoughts:** Learn about Helpers in bootstrap.
+
+**Link to Docs:** [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
