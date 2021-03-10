@@ -539,3 +539,10 @@ make a periodic debugging sessions, once the project going bigger day by day its
 
 **Thoughts:** I have re-developed the whole Random User Generator Project on my own by checking on official docs to
 get an idea how far i have grasped the concepts of angular.
+
+### Day 67: March 10, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Started Re-developing Github Repo Searcher App without looking at the already developed code. So far,
+i started by generating Prototype on how my App should look like using **Adobe XD** and done Mindmap using **Coggle**.
