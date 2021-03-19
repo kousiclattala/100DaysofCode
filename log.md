@@ -546,3 +546,53 @@ get an idea how far i have grasped the concepts of angular.
 
 **Thoughts:** Started Re-developing Github Repo Searcher App without looking at the already developed code. So far,
 i started by generating Prototype on how my App should look like using **Adobe XD** and done Mindmap using **Coggle**.
+
+### Day 68: March 11, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done Generating APP using Angular/Cli, and installed necessary dependencies.
+
+### Day 69: March 12, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done implementing services for Authentication and Github.
+
+### Day 70: March 13, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done implementing NavBar and Footer.
+
+### Day 71: March 14, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done implementing routing and conditional rendering of navbar (what things to show and not to show).
+
+### Day 72: March 15, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done implementing SignUp, SignIn, LogOut.
+
+### Day 73: March 16, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Done implementing Home Component, Repo component, Card Component.
+
+### Day 74: March 17, 2021
+
+**Today's Progress:** Re-Developing GithubRepo Searcher App
+
+**Thoughts:** Final Touches and debugging and finally completed the project.
+
+### Day 75: March 18, 2021
+
+**Today's Progress:** Developed REST API
+
+**Thoughts:** I developed a basic API using NodeJS, ExpressJS, MongoDB.
+
+**Link to Project:** [REST API](https://github.com/kousiclattala/REST-API)
