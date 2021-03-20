@@ -596,3 +596,12 @@ i started by generating Prototype on how my App should look like using **Adobe X
 **Thoughts:** I developed a basic API using NodeJS, ExpressJS, MongoDB.
 
 **Link to Project:** [REST API](https://github.com/kousiclattala/REST-API)
+
+### Day 76: March 19, 2021
+
+**Today's Progress:** Developing PostIT
+
+**Thoughts:** I started developing another project called PostIT, which is a Instagram type thing.
+Done implementing Design and MindMap.
+
+**Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
