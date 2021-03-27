@@ -623,3 +623,12 @@ Done implementing Design and MindMap.
 **Thoughts:** Done implementing loader, header and footer
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
+
+
+### Day 79: March 22, 2021
+
+**Today's Progress:** Developing PostIT
+
+**Thoughts:** Done implementing Services and necessary imports and generating components and implementing routing.
+
+**Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
