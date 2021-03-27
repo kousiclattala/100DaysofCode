@@ -632,3 +632,15 @@ Done implementing Design and MindMap.
 **Thoughts:** Done implementing Services and necessary imports and generating components and implementing routing.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
+
+
+
+### Day 80: March 23, 2021
+
+**Today's Progress:** Developing PostIT
+
+**Thoughts:** Done implementing signUp and Google SignUp.
+
+**Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
+
+
