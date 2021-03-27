@@ -605,3 +605,14 @@ i started by generating Prototype on how my App should look like using **Adobe X
 Done implementing Design and MindMap.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
+
+
+### Day 77: March 20, 2021
+
+**Today's Progress:** Developing PostIT
+
+**Thoughts:** Done generating project and installing necessary dependencies
+
+**Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
+
+
