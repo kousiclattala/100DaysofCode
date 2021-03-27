@@ -644,3 +644,11 @@ Done implementing Design and MindMap.
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
 
 
+### Day 82: March 25, 2021
+
+**Today's Progress:** Done task for Internship
+
+**Thoughts:** I applied for an Internship and they send me a task to implementing Google and Facebook signin.
+I have implemented that and i hosted that project in Firebase.
+
+**Link to Project:** https://internship-77740.web.app/
