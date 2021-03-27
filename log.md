@@ -652,3 +652,13 @@ Done implementing Design and MindMap.
 I have implemented that and i hosted that project in Firebase.
 
 **Link to Project:** https://internship-77740.web.app/
+
+### Day 83: March 26, 2021
+
+**Today's Progress:** Another task for Another Internship
+
+**Thoughts:** I applied for an Internship and they send me a task to implement dashboard for Admin for an Travel company,
+I created the front-end UI using Bootstrap and need to add functionality to it.
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
