@@ -606,7 +606,6 @@ Done implementing Design and MindMap.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
 
-
 ### Day 77: March 20, 2021
 
 **Today's Progress:** Developing PostIT
@@ -614,7 +613,6 @@ Done implementing Design and MindMap.
 **Thoughts:** Done generating project and installing necessary dependencies
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
-
 
 ### Day 78: March 21, 2021
 
@@ -624,7 +622,6 @@ Done implementing Design and MindMap.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
 
-
 ### Day 79: March 22, 2021
 
 **Today's Progress:** Developing PostIT
@@ -633,8 +630,6 @@ Done implementing Design and MindMap.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
 
-
-
 ### Day 80: March 23, 2021
 
 **Today's Progress:** Developing PostIT
@@ -642,7 +637,6 @@ Done implementing Design and MindMap.
 **Thoughts:** Done implementing signUp and Google SignUp.
 
 **Link to Project:** [Post It](https://github.com/kousiclattala/PostIt)
-
 
 ### Day 82: March 25, 2021
 
@@ -662,3 +656,10 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
 
+### Day 84: March 27, 2021
+
+**Today's Progress:** Task for Internship
+
+**Thoughts:** worked on the Internship task, implemented authentication for the task.
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
