@@ -663,3 +663,13 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 **Thoughts:** worked on the Internship task, implemented authentication for the task.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+
+
+### Day 85: March 28, 2021
+
+**Today's Progress:** Task Another Internship
+
+**Thoughts:** worked on Intership task, implemented trips route (createTrip, getAllTrips, getOngoingTrips).
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
