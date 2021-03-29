@@ -664,12 +664,18 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
 
-
-
 ### Day 85: March 28, 2021
 
 **Today's Progress:** Task Another Internship
 
 **Thoughts:** worked on Intership task, implemented trips route (createTrip, getAllTrips, getOngoingTrips).
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+### Day 86: March 29, 2021
+
+**Today's Progress:** Task for Internship
+
+**Thoughts:** worked on Internship task, implemented agent route (createAgent, getAllAgents, agentAssigning)
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
