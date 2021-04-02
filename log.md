@@ -703,3 +703,11 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 **Thoughts:** Final debugging and project uploaded to github.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+### Day 90: April 02, 2021
+
+**Today's Progress:** Task for Internship
+
+**Thoughts:** Completed and Submitted the Internship Task.
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
