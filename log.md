@@ -679,3 +679,11 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 **Thoughts:** worked on Internship task, implemented agent route (createAgent, getAllAgents, agentAssigning)
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+### Day 87: March 30, 2021
+
+**Today's Progress:** Task for Internship
+
+**Thoughts:** worked on Internship Task, integrating Front-End with Back-End using Angular HttpClient.
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
