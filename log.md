@@ -695,3 +695,11 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 **Thoughts:** worked on Internship Task, encounter problem after integrating Front-End and Back-End,unable to authorize the user, missed sending user token to backend through headers, rectified it by using angular service called HttpInterceptor, which intercepts the Http requests sending from angular and getting in to angular and by using that we can add missing headers and send it to the backend.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+### Day 89: April 01, 2021
+
+**Today's Progress:** Task for Internship
+
+**Thoughts:** Final debugging and project uploaded to github.
+
+**Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
