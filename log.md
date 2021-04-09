@@ -727,3 +727,12 @@ docker compose, dockerfile, creating first docker image.
 Basic commands,
 
 **Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
+
+## Day 93: April 05, 2021
+
+**Today's Progress:** Learning MongoDB Basic cluster Administration
+
+**Thoughts:** Logging Basics, Profiling the Database,Logging to a Different Facility Basic Security: Part 1, Part 2,
+Built-in Roles: Part 1 Part2, Creating First Application, Server Tools Overview, Importing a Dataset.
+
+**Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
