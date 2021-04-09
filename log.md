@@ -718,3 +718,12 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 
 **Thoughts:** what is Docker, How it is useful?, Difference b/w Docker and Virtual machine, Docker basic commands,
 docker compose, dockerfile, creating first docker image.
+
+## Day 92: April 04, 2021
+
+**Today's Progress:** Learning MongoDB Basic cluster Administration
+
+**Thoughts:** The Mongod, Mongod Options, Launching Mongod, Configuration file, File Structure, Change the Default DB path
+Basic commands,
+
+**Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
