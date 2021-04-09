@@ -711,3 +711,10 @@ I created the front-end UI using Bootstrap and need to add functionality to it.
 **Thoughts:** Completed and Submitted the Internship Task.
 
 **Link to Project:** [Admin Bashboard](https://github.com/kousiclattala/AdminDashboard.git)
+
+## Day 91: April 03, 2021
+
+**Today's Progress:** Learning Docker
+
+**Thoughts:** what is Docker, How it is useful?, Difference b/w Docker and Virtual machine, Docker basic commands,
+docker compose, dockerfile, creating first docker image.
