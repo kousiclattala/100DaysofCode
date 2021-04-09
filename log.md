@@ -736,3 +736,11 @@ Basic commands,
 Built-in Roles: Part 1 Part2, Creating First Application, Server Tools Overview, Importing a Dataset.
 
 **Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
+
+## Day 94: April 06, 2021
+
+**Today's Progress:** Learning MongoDB Basic cluster Administration
+
+**Thoughts:** What is Replication?, MongoDB Relica Set, Deploy a Replica Set, Replication Configuration Document.
+
+**Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
