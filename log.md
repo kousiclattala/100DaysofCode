@@ -761,3 +761,11 @@ Built-in Roles: Part 1 Part2, Creating First Application, Server Tools Overview,
 Read Concerns, Read Preferences.
 
 **Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
+
+## Day 97: April 09, 2021
+
+**Today's Progress:** Learning MongoDB Basic cluster Administration
+
+**Thoughts:** What is Sharding?, When to Shard, Sharding Architecture, Config DB, Shard Keys, Picking a Good Shard.
+
+**Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
