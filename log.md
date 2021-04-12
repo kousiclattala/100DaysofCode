@@ -778,3 +778,11 @@ Read Concerns, Read Preferences.
 Part 2
 
 **Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
+
+## Day 99: April 11, 2021
+
+**Today's Progress:** Learning M220JS: MongoDB for Javascript Developers
+
+**Thoughts:** Introduction and Setup
+
+**Link to Course:** [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2021_March_23/overview)
