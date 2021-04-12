@@ -769,3 +769,12 @@ Read Concerns, Read Preferences.
 **Thoughts:** What is Sharding?, When to Shard, Sharding Architecture, Config DB, Shard Keys, Picking a Good Shard.
 
 **Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
+
+## Day 98: April 10, 2021
+
+**Today's Progress:** Learning MongoDB Basic cluster Administration
+
+**Thoughts:** Hashed Shard Keys, Chunks, Balancing, Queries in a Sharded Cluster, Targeted Queries vs Scatter Gather: Part 1,
+Part 2
+
+**Link to Course:** [M103-Basic Cluster Administration](https://university.mongodb.com/mercury/M103/2021_March_23/overview)
