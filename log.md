@@ -786,3 +786,11 @@ Part 2
 **Thoughts:** Introduction and Setup
 
 **Link to Course:** [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2021_March_23/overview)
+
+## Day 100: April 12, 2021
+
+**Today's Progress:** Learning M220JS: MongoDB for Javascript Developers
+
+**Thoughts:** MongoDB Driver setup for nodeJS.
+
+**Link to Course:** [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2021_March_23/overview)
