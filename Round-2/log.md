@@ -7,3 +7,11 @@
 **Thoughts:** I learned about how to use styled components. I developed button component using styled components.
 
 **Link to Material:** [Project Link](https://github.com/kousiclattala/styled-components.git)
+
+### Day 2: Semptember 28, 2020
+
+**Today's Progress**: Styled TouchabeButton.
+
+**Thoughts:** Today, i styled _TouchableButton_ using native **TouchableOpacity**.
+
+**Link to Material:** [Project Link](https://github.com/kousiclattala/styled-components.git)
